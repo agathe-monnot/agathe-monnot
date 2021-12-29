@@ -2,7 +2,7 @@ Hi, I’m Agathe Monnot!
 
 After working as photographer (studio and free-lance), I am now a student at City of Glasgow College, learning Web Development. 
 
-I have just passed my HNC with an A grade and will start my HND in August 2021. 
+I have just passed my HNC with an A grade and will get my HND in July 2021. 
 
 I wish to use my knowledge in Graphic Design (Visual Communication Bachelor obtained in 2010) and visual arts, paired with my newly gained coding skills, to become a full stack developer.
 
